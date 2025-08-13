@@ -1,0 +1,30 @@
+*{
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+
+.recipes{
+    border: 5px solid black;
+    width: 300px;
+    margin: 0 auto;
+}
+
+a{
+    color: #000000;
+    text-decoration: none;    
+}
+
+a:hover{
+    color: rgb(0%, 0%, 100%);
+}
+
+.recipes-list{
+    list-style-type: none;
+}
+
+.index-title{
+    text-align: center;
+}
+
+img{
+    display: block;
+}
